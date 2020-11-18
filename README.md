@@ -1,1 +1,1 @@
-https://travis-ci.com/s2wu/CSE110-Lab5.svg?token=jai5JRe2Y9QAaTLzyneq&branch=main
+[![Build Status](https://travis-ci.com/s2wu/CSE110-Lab5.svg?token=jai5JRe2Y9QAaTLzyneq&branch=main)](https://travis-ci.com/s2wu/CSE110-Lab5)
